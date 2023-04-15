@@ -1,4 +1,4 @@
-# MDC-100 Series of Codelabs
+# Shrine product flutter project
 
 ## Getting Started
 
